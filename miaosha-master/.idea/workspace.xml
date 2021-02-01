@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5831290-7ad1-4444-8eb6-471e92dc01c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n9A3nEmUfxcH056f7TX8uKwcO9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586096364008" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Springboot练习\miaosha\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Springboot练习\miaosha\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miaoshaProject.App" />
+      <module name="miaosha-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miaoshaProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mybatis-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="miaosha-master" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.miaoshaProject.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Maven.mybatis-generator" />
+      <item itemvalue="Spring Boot.App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5831290-7ad1-4444-8eb6-471e92dc01c2" name="Default Changelist" comment="" />
+      <created>1585658285099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585658285099</updated>
+      <workItem from="1585658289156" duration="5960000" />
+      <workItem from="1585705080033" duration="21667000" />
+      <workItem from="1585804603771" duration="19038000" />
+      <workItem from="1585883168352" duration="27063000" />
+      <workItem from="1586052502194" duration="29416000" />
+      <workItem from="1610791740778" duration="48000" />
+      <workItem from="1611129179429" duration="5934000" />
+      <workItem from="1611148139300" duration="236000" />
+      <workItem from="1611150620122" duration="5656000" />
+      <workItem from="1611232229950" duration="1308000" />
+      <workItem from="1611237608028" duration="27000" />
+      <workItem from="1611237759760" duration="426000" />
+      <workItem from="1611365730049" duration="777000" />
+      <workItem from="1611368799672" duration="1587000" />
+      <workItem from="1611407916819" duration="23000" />
+      <workItem from="1611408107043" duration="1700000" />
+      <workItem from="1611481800770" duration="5000" />
+      <workItem from="1611489425629" duration="267000" />
+      <workItem from="1611496026908" duration="1144000" />
+      <workItem from="1611800582983" duration="1844000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="85" key="#App" timestamp="1611186421467">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="390" y="85" key="#App/0.25.1440.804@0.25.1440.804" timestamp="1611186421467" />
+    <state x="157" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611232552626">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="157" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.804@0.25.1440.804" timestamp="1611232552626" />
+    <state width="1196" height="280" key="GridCell.Tab.0.bottom" timestamp="1611823955058">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state width="1112" height="126" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1610791787728" />
+    <state width="1196" height="280" key="GridCell.Tab.0.bottom/0.25.1440.804@0.25.1440.804" timestamp="1611823955058" />
+    <state width="1196" height="280" key="GridCell.Tab.0.center" timestamp="1611823955057">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state width="1112" height="126" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1610791787716" />
+    <state width="1196" height="280" key="GridCell.Tab.0.center/0.25.1440.804@0.25.1440.804" timestamp="1611823955057" />
+    <state width="1196" height="280" key="GridCell.Tab.0.left" timestamp="1611823955056">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state width="1112" height="126" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1610791787716" />
+    <state width="1196" height="280" key="GridCell.Tab.0.left/0.25.1440.804@0.25.1440.804" timestamp="1611823955056" />
+    <state width="1196" height="280" key="GridCell.Tab.0.right" timestamp="1611823955058">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state width="1112" height="126" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1610791787717" />
+    <state width="1196" height="280" key="GridCell.Tab.0.right/0.25.1440.804@0.25.1440.804" timestamp="1611823955058" />
+    <state x="271" y="87" key="Maven.ArtifactSearchDialog" timestamp="1611148186831">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="271" y="87" key="Maven.ArtifactSearchDialog/0.25.1440.804@0.25.1440.804" timestamp="1611148186831" />
+    <state x="219" y="62" key="SettingsEditor" timestamp="1611150821467">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="219" y="62" key="SettingsEditor/0.25.1440.804@0.25.1440.804" timestamp="1611150821467" />
+    <state x="369" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1611496043021">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="369" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.811@0.23.1440.811" timestamp="1610791740411" />
+    <state x="369" y="262" key="com.intellij.ide.util.TipDialog/0.25.1440.804@0.25.1440.804" timestamp="1611496043020" />
+    <state x="369" y="262" key="com.intellij.ide.util.TipDialog/0.25.1440.805@0.25.1440.805" timestamp="1611481803205" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/miaoshaProject/service/model/ItemModel.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
